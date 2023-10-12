@@ -1,0 +1,51 @@
+ body{
+    background-color: black;
+    border:2px solid white;
+    padding:10px;
+    margin:10px;
+    
+} 
+h1{
+    color:red;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 50px 50px 55px 50px;
+}
+
+#start{
+    text-align: center;
+    
+
+}
+
+main{
+    color:aliceblue;
+    
+}
+
+
+footer{
+    color:aliceblue;
+    text-align: center;
+  
+}
+
+nav{
+    color: aliceblue;
+    
+}
+#photo {
+    height:10px;
+    width:200px;
+
+    opacity: 20%;
+
+    
+}
+
+
+
+
+
+
